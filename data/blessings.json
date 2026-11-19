@@ -1,0 +1,1490 @@
+[
+  {
+    "code": "Y01",
+    "chinese": "福星高照",
+    "english": "Blessings of the Auspicious Star",
+    "category": "life",
+    "edition": "blind",
+    "colorFamily": "yellow",
+    "story": {
+      "zh": "你有没有过那种早晨，闹钟响之前就醒了。窗外还是灰的，脑子里却已经在算今天要扛多少事。这种时候谁不想有人轻轻拍一下后背，说一句没事的，今天有我。也许福星高照这四个字，就是那只手。不响，但是它在那里。",
+      "en": "You bet, eighty thousand people a year wake up before the alarm and start counting what they have to carry. This seal, gold and small, is the hand on the back. Quiet. It stays."
+    }
+  },
+  {
+    "code": "Y02",
+    "chinese": "瑞气盈门",
+    "english": "Auspicious Energy Fills the Door",
+    "category": "life",
+    "edition": "blind",
+    "colorFamily": "yellow",
+    "story": {
+      "zh": "谁家没个把旧门。小时候推开门，饭菜味涌出来，外套被妈接走，没人问今天考几分。这扇门其实不在门外，在你心里。瑞气盈门，不是神仙降临，是你终于愿意把日子过成那种味道。",
+      "en": "Every family has an old door. Push it open, smell the food, the coat taken off your shoulders, no questions about the test. That door is not outside. It is inside. Auspicious Energy is not a god descending. It is you, finally living a life that smells that way."
+    }
+  },
+  {
+    "code": "Y03",
+    "chinese": "吉庆满堂",
+    "english": "Joy and Celebration Fill the Hall",
+    "category": "life",
+    "edition": "blind",
+    "colorFamily": "yellow",
+    "story": {
+      "zh": "吉庆不是要升官发财。是你周日早上醒来，老婆在厨房，孩子没在哭，窗外有光。这种时刻太少，所以要记得。这一张金色的卡，就是帮你记得这一天的形状。",
+      "en": "Joy is not a promotion. It is Sunday morning, your partner in the kitchen, the child not crying, the light coming in. These moments are too rare to forget. This gold seal, it is the shape of that day, kept."
+    }
+  },
+  {
+    "code": "Y04",
+    "chinese": "招财进宝",
+    "english": "Summon Wealth and Treasure",
+    "category": "wealth",
+    "edition": "blind",
+    "colorFamily": "yellow",
+    "story": {
+      "zh": "招财进宝，听着像迷信，其实你心里知道。它真正说的事是：你要主动去摸钱的样子。摸过算盘，摸过账本，摸过硬币叠起来那一摞。这张卡不是替你赚钱，是让钱认得你的手。",
+      "en": "Summon Wealth sounds like superstition. You know it is not. What it really says is: you have to know the feel of money. The abacus, the ledger, the stack of coins. This card does not earn for you. It lets money recognize your hand."
+    }
+  },
+  {
+    "code": "Y05",
+    "chinese": "堆金积玉",
+    "english": "Piling Gold, Accumulating Jade",
+    "category": "wealth",
+    "edition": "blind",
+    "colorFamily": "yellow",
+    "story": {
+      "zh": "堆金积玉这四个字说出来，舌头都发沉。其实哪有什么金山。是你每天存一块钱，是把不要的东西挂闲鱼，是工资到账那一刻忍住没下单。这张卡是给你那一秒的肯定。",
+      "en": "Piling Gold, Accumulating Jade — the words are heavy on the tongue. There is no mountain of gold. It is one dollar a day, the thing you did not buy, the moment your salary lands and you held off. This card is the nod to that one second."
+    }
+  },
+  {
+    "code": "Y06",
+    "chinese": "福寿双全",
+    "english": "Blessings and Longevity Complete",
+    "category": "life",
+    "edition": "blind",
+    "colorFamily": "yellow",
+    "story": {
+      "zh": "爸妈那一辈，最在意的两件事就是福和寿。但你知道的，他们不好意思说。这一张是替他们说的。过年回家，把它放在爸妈桌前，别说什么，他们看字就懂。",
+      "en": "My parents generation cared about two things: blessings and longevity. But they never said it. This seal, you put it on their table when you go home for the new year. You say nothing. They read the four words. They know."
+    }
+  },
+  {
+    "code": "Y07",
+    "chinese": "康宁永乐",
+    "english": "Health, Peace, Eternal Joy",
+    "category": "life",
+    "edition": "blind",
+    "colorFamily": "yellow",
+    "story": {
+      "zh": "身体好这件事，是到了一定年纪才有感觉。三十岁前熬夜无所谓，三十岁后连着失眠一周就怕了。康宁不是让你长生，是让你别再拿身体换那些不值得的事。这张金色的字，是提醒你别太用力。",
+      "en": "You feel health only after a certain age. Before thirty, late nights cost nothing. After thirty, one bad week of sleep scares you. Health and Peace is not about living long. It is about not trading your body for things not worth it. This gold seal, a reminder to ease up."
+    }
+  },
+  {
+    "code": "Y08",
+    "chinese": "百福具臻",
+    "english": "A Hundred Blessings Arrive",
+    "category": "life",
+    "edition": "blind",
+    "colorFamily": "yellow",
+    "story": {
+      "zh": "百福具臻，意思是一百种福都来了。这话太满了，谁信。但我想它说的不是\"都会实现\"，是\"都有机会\"。你多接一个电话，多走一步路，多忍住一句气，那就是一张百福。",
+      "en": "A Hundred Blessings Arrive. Too full, who believes it. I think it does not mean all will come. It means there is a chance at each. One more call, one more step, one breath swallowed. That is one of the hundred."
+    }
+  },
+  {
+    "code": "Y09",
+    "chinese": "千祥云集",
+    "english": "A Thousand Auspicious Signs Gather",
+    "category": "life",
+    "edition": "blind",
+    "colorFamily": "yellow",
+    "story": {
+      "zh": "千祥比百福还过分。但我猜古人写这四个字，是给那种\"事情一件接一件就是顺\"的感觉的。这种日子不常有，但你要认得它。它来的时候别低头看手机，抬起来看天。",
+      "en": "A Thousand Auspicious Signs is even more than a hundred. I think the old people wrote it for that feeling when one thing after another just goes right. These days are rare. But you have to recognize it. When it comes, do not look at the phone. Look up at the sky."
+    }
+  },
+  {
+    "code": "Y10",
+    "chinese": "金玉满堂",
+    "english": "Gold and Jade Fill the Hall",
+    "category": "wealth",
+    "edition": "blind",
+    "colorFamily": "yellow",
+    "story": {
+      "zh": "金玉满堂，是一个人最饱满的状态。家里装满了，柜子里装满了，脑子里也想清楚了。这张印在手里，意思不是说再塞点东西，是说：够了，留点白。",
+      "en": "Gold and Jade Fill the Hall is when a person is most full. The house is full, the cabinet is full, the head is clear. This seal in hand, it does not mean add more. It means: enough. Leave some space."
+    }
+  },
+  {
+    "code": "Y11",
+    "chinese": "大吉大利",
+    "english": "Great Fortune and Prosperity",
+    "category": "life",
+    "edition": "blind",
+    "colorFamily": "yellow",
+    "story": {
+      "zh": "大吉大利，谁不喜欢这四个字。但你发现没，它是有具体场景的——开张大吉、出行大利、开工大吉。每一个场景前面都有一件事要做。这张卡不是祝你好运，是祝你动起来。",
+      "en": "Great Fortune and Prosperity — who does not like it. But notice, it always has a scene: opening a business, traveling, starting work. Each scene has something to do. This seal is not wishing you luck. It is wishing you to move."
+    }
+  },
+  {
+    "code": "Y12",
+    "chinese": "万事亨通",
+    "english": "All Things Go Smoothly",
+    "category": "life",
+    "edition": "blind",
+    "colorFamily": "yellow",
+    "story": {
+      "zh": "万事亨通，太绝对了，谁信。但偶尔有那么一天，你回邮件一封就中，开会一句话就成，连停车都正好有个位子。那一天就是万事亨通一天。这张卡是告诉你，那一天会再来。",
+      "en": "All Things Go Smoothly — too absolute, no one believes it. But some days, one email works, one sentence in a meeting lands, even the parking spot opens. That day is All Things Go Smoothly. This card tells you, that day will come again."
+    }
+  },
+  {
+    "code": "Y13",
+    "chinese": "财运亨通",
+    "english": "Wealth and Fortune Flow Freely",
+    "category": "wealth",
+    "edition": "blind",
+    "colorFamily": "yellow",
+    "story": {
+      "zh": "财运亨通这四个字，重点在\"亨\"——通达。钱不是不流到你，是流到了你看不见的管道里。这一张印在银行 app 的图标附近，是给你每次打开看一眼。",
+      "en": "Wealth and Fortune Flow Freely — the key character is flow. Money does flow to you, just in pipes you cannot see. This seal, near the bank app icon, for each time you open it."
+    }
+  },
+  {
+    "code": "Y14",
+    "chinese": "鸿运当头",
+    "english": "Great Fortune Is Upon You",
+    "category": "wealth",
+    "edition": "blind",
+    "colorFamily": "yellow",
+    "story": {
+      "zh": "鸿运当头，\"当头\"两个字最俗也最准——好运就在你头顶上。这张印的，是给那种\"今天什么都不顺、但走到家楼下抬头看见云\"的人。",
+      "en": "Great Fortune Is Upon You — dang tou (upon your head) is the most colloquial, most accurate — luck is on your head. This seal, for those whose day is not going well, but who look up at the clouds when they reach the bottom of their building."
+    }
+  },
+  {
+    "code": "Y15",
+    "chinese": "日进斗金",
+    "english": "Gold Pours In Daily",
+    "category": "wealth",
+    "edition": "blind",
+    "colorFamily": "yellow",
+    "story": {
+      "zh": "日进斗金这四个字太满了，但古人说出来是因为他们相信积少成多。这一张印在你的零钱罐或记账软件每日打卡那里。",
+      "en": "Gold Pours In Daily — these four words are too full, but the ancients said them because they believed small adds up. This seal, on your coin jar or daily check-in of your accounting app."
+    }
+  },
+  {
+    "code": "Y16",
+    "chinese": "福如东海",
+    "english": "Blessings Vast as the Eastern Sea",
+    "category": "life",
+    "edition": "blind",
+    "colorFamily": "yellow",
+    "story": {
+      "zh": "福如东海，四个字读起来很慢，但你要的就是这种慢。这一张印在你家冰箱门上，每次开门看见。",
+      "en": "Blessings Vast as the Eastern Sea — the four characters read slow, but you want this slow. This seal, on the fridge door. Open it, see it."
+    }
+  },
+  {
+    "code": "Y17",
+    "chinese": "寿比南山",
+    "english": "Longevity Firm as the Southern Mountain",
+    "category": "life",
+    "edition": "blind",
+    "colorFamily": "yellow",
+    "story": {
+      "zh": "寿比南山，南山是终南山，老人家都活到那个岁数。这张印在爸妈床头柜上，是给那种\"希望爸妈多陪几年\"的人。",
+      "en": "Longevity Firm as the Southern Mountain — the Southern Mountain, elders live to that age. This seal, on your parents nightstand, for those who hope for a few more years with them."
+    }
+  },
+  {
+    "code": "Y18",
+    "chinese": "天赐良缘",
+    "english": "Heaven-Sent Good Fortune",
+    "category": "love",
+    "edition": "blind",
+    "colorFamily": "yellow",
+    "story": {
+      "zh": "天赐良缘，这四个字是给还没遇到那个人的。良缘不是天上掉下来的，是你在等的时候把自己养好了。这一张印在你梳妆台或床头。",
+      "en": "Heaven-Sent Good Fortune — these four characters are for those who have not met that person yet. Good fortune does not fall from the sky, it comes because while waiting, you made yourself ready. This seal, on the dresser or bedside."
+    }
+  },
+  {
+    "code": "Y19",
+    "chinese": "丰衣足食",
+    "english": "Ample Clothing and Abundant Food",
+    "category": "wealth",
+    "edition": "blind",
+    "colorFamily": "yellow",
+    "story": {
+      "zh": "丰衣足食，最朴素也最应该的四个字。这一张印在饭桌正中间——吃饭的人最知道什么是丰衣足食。",
+      "en": "Ample Clothing and Abundant Food — the most plain, most deserved. This seal, in the center of the dining table. The one who eats knows best what these four characters mean."
+    }
+  },
+  {
+    "code": "Y20",
+    "chinese": "安居乐业",
+    "english": "Peaceful Home, Joyful Work",
+    "category": "life",
+    "edition": "blind",
+    "colorFamily": "yellow",
+    "story": {
+      "zh": "安居乐业，安在前乐在后。古人写这四个字是有顺序的——先安后乐。这一张印在卧室门内侧。",
+      "en": "Peaceful Home, Joyful Work — peace first, joy after. The ancients wrote these four characters in order. This seal, inside the bedroom door."
+    }
+  },
+  {
+    "code": "Y21",
+    "chinese": "兴旺发达",
+    "english": "Prosperous and Flourishing",
+    "category": "career",
+    "edition": "blind",
+    "colorFamily": "yellow",
+    "story": {
+      "zh": "兴旺发达，兴在前旺在后。这张印在你每天第一张便签或日历的左下角。",
+      "en": "Prosperous and Flourishing — prosper first, flourish after. This seal, at the bottom-left of your first sticky note or calendar."
+    }
+  },
+  {
+    "code": "Y22",
+    "chinese": "蒸蒸日上",
+    "english": "Rising Steadily Day by Day",
+    "category": "career",
+    "edition": "blind",
+    "colorFamily": "yellow",
+    "story": {
+      "zh": "蒸蒸日上，听着像股票，但古人说这四个字是给\"每天进步一点\"的人的。这一张印在你每天睡前写的那本小本子上。",
+      "en": "Rising Steadily Day by Day — sounds like stocks, but the ancients said it for those who progress a little daily. This seal, on the small notebook you write in before bed."
+    }
+  },
+  {
+    "code": "Y23",
+    "chinese": "步步高升",
+    "english": "Rising Step by Step",
+    "category": "career",
+    "edition": "blind",
+    "colorFamily": "yellow",
+    "story": {
+      "zh": "步步高升，\"步\"字最重——一步一步。这一张印在你家楼梯第一级台阶上，每天上楼下楼踩过。",
+      "en": "Rising Step by Step — the character bu (step) is heaviest. Step by step. This seal, on the first stair at home. You step on it every day going up and down."
+    }
+  },
+  {
+    "code": "Y24",
+    "chinese": "前程似锦",
+    "english": "A Future Bright as Brocade",
+    "category": "career",
+    "edition": "blind",
+    "colorFamily": "yellow",
+    "story": {
+      "zh": "前程似锦，锦是织出来的。这一张印在你办公桌最里面那本你舍不得扔的本子上。",
+      "en": "A Future Bright as Brocade — brocade is woven. This seal, on the innermost notebook on your desk, the one you cannot throw away."
+    }
+  },
+  {
+    "code": "Y25",
+    "chinese": "心想事成",
+    "english": "All That You Wish Comes True",
+    "category": "life",
+    "edition": "blind",
+    "colorFamily": "yellow",
+    "story": {
+      "zh": "心想事成，心要在前。古人说这四个字是因为很多人事不成，是心想得不真。这一张印在你新年愿望清单的封面上。",
+      "en": "All That You Wish Comes True — heart first. The ancients said this because many wishes fail, the heart did not truly wish. This seal, on the cover of your New Year wish list."
+    }
+  },
+  {
+    "code": "R01",
+    "chinese": "琴瑟和鸣",
+    "english": "Harmony of Lute and Zither",
+    "category": "love",
+    "edition": "blind",
+    "colorFamily": "red",
+    "story": {
+      "zh": "两个人在一起久了，会以为默契是不需要说话的。饭摆好，鞋放好，谁都不用开口就懂。但是有时候你也想听他说一句具体的什么，不是\"我爱你\"，是今天那件小事。这张印，红色的，盖在枕边的书里，提醒你，默契不是用完的，是养出来的。",
+      "en": "When two people stop speaking, they think it is closeness. The chopsticks are set, the shoes are tidy, the silence is comfortable. But every now and then, you want to hear one specific thing. This seal, vermilion, sits in the book on your nightstand. It reminds you. Closeness is not spent. It is kept."
+    }
+  },
+  {
+    "code": "R02",
+    "chinese": "比翼双飞",
+    "english": "Flying Wing to Wing",
+    "category": "love",
+    "edition": "blind",
+    "colorFamily": "red",
+    "story": {
+      "zh": "比翼鸟是两只鸟一根翅膀，谁也飞不了。这话其实不是浪漫，是警告——你找的那个人，是要跟你绑一辈子的。一根翅膀，断了一只你就掉下来。这张卡写给还在选的人。",
+      "en": "The paired birds share one wing. Neither can fly alone. This is not romance. It is a warning. Whoever you pick, you are tied for life. One wing breaks, you both fall. This seal is for the one still choosing."
+    }
+  },
+  {
+    "code": "R03",
+    "chinese": "花好月圆",
+    "english": "Flowers Bloom, Moon Is Full",
+    "category": "love",
+    "edition": "blind",
+    "colorFamily": "red",
+    "story": {
+      "zh": "花好月圆，小时候以为是说景，长大才知道是说人。花开到最盛是好的，月圆到最满是好的，但都留不住。这一张印的，是那种\"知道留不住还在看\"的爱情。",
+      "en": "Flowers Bloom, Moon Is Full — I thought as a child it was about scenery. Grown up, I know it is about people. Flowers at peak, moon at full, both cannot stay. This seal is for the kind of love that knows it will not stay, and still looks."
+    }
+  },
+  {
+    "code": "R04",
+    "chinese": "并蒂莲开",
+    "english": "Twin Lotus Blooms",
+    "category": "love",
+    "edition": "blind",
+    "colorFamily": "red",
+    "story": {
+      "zh": "并蒂莲是一根茎上两朵花，长得一模一样，但你看久了会发现它们其实朝不同的方向。爱情也是这样，你以为你们一样，其实每个人心里都有自己那个方向。这张印的，是接受这种不同的勇气。",
+      "en": "Twin Lotus, one stem two flowers, look the same. Look long, you see they face different ways. Love is like that. You think you are the same, but each heart has its own direction. This seal, the courage to accept that difference."
+    }
+  },
+  {
+    "code": "R05",
+    "chinese": "永结同心",
+    "english": "Bound Forever in Heart",
+    "category": "love",
+    "edition": "blind",
+    "colorFamily": "red",
+    "story": {
+      "zh": "永结同心，这四个字你结婚那天听过一次，后来再也没听。其实它不是那一天的，是每一天的。同心不是一开始就有的，是吵架吵出来的。这张卡放在床头，是提醒你每天重新结一次。",
+      "en": "Bound Forever in Heart — you heard these four words on your wedding day, never again. But they are not for that day. They are for every day. One Heart is not given at the start. It is built in every fight. This seal by the bed, a reminder to bind again each day."
+    }
+  },
+  {
+    "code": "R06",
+    "chinese": "连理同枝",
+    "english": "Branches Joined as One",
+    "category": "love",
+    "edition": "blind",
+    "colorFamily": "red",
+    "story": {
+      "zh": "连理枝是两棵树靠在一起，靠久了枝条会缠上。但你注意到没，缠上之后它们还是两棵树，根是分开的。爱情不是变成一个人，是两个独立的人选了同一种姿势。",
+      "en": "Branches Joined as One — two trees lean together, branches tangle with time. But notice, tangled or not, they are still two trees, roots apart. Love is not becoming one person. It is two whole people choosing the same posture."
+    }
+  },
+  {
+    "code": "R07",
+    "chinese": "鸾凤和鸣",
+    "english": "Phoenixes Sing in Harmony",
+    "category": "love",
+    "edition": "blind",
+    "colorFamily": "red",
+    "story": {
+      "zh": "鸾凤和鸣，古人把两种鸟配在一起——凤是雌，雄叫凰。但我最喜欢的是那个\"鸣\"字。它是声音，是你们还愿意吵一架、说一句、笑一声。这张卡是为\"还愿意说话\"的爱情准备的。",
+      "en": "Phoenixes Sing in Harmony — the ancients paired two birds. But I love the word sing. It is sound, it is you still willing to fight, to say something, to laugh. This seal, for the love that still talks."
+    }
+  },
+  {
+    "code": "R08",
+    "chinese": "燕侣莺俦",
+    "english": "Swallow and Oriole Pair",
+    "category": "love",
+    "edition": "blind",
+    "colorFamily": "red",
+    "story": {
+      "zh": "燕侣莺俦，字面是好鸟成双。我倒觉得是说那种轻的、不累的陪伴。燕子黄莺都不重，飞飞停停，叽叽喳喳。这一张印的，是那种\"在不在都行，但见了就好\"的关系。",
+      "en": "Swallow and Oriole Pair — the words mean good birds in pairs. I think it means the light, un-tiring kind of company. Swallows and orioles are not heavy. They fly, they stop, they chirp. This seal, for the kind of relationship where seeing each other is enough."
+    }
+  },
+  {
+    "code": "R09",
+    "chinese": "情深似海",
+    "english": "Love Deep as the Sea",
+    "category": "love",
+    "edition": "blind",
+    "colorFamily": "red",
+    "story": {
+      "zh": "情深似海，海是最不靠谱的比喻。海有潮汐、有风暴、有退潮。但反过来想，潮汐风暴退潮都是海。爱情也是这样——深不是不变化，是变来变去还是那个人。",
+      "en": "Love Deep as the Sea — sea is the worst metaphor. Sea has tides, storms, ebb. But think the other way. Tide, storm, ebb, all still the sea. Love is the same. Deep is not unchanging. It is changing and still that person."
+    }
+  },
+  {
+    "code": "R10",
+    "chinese": "地久天长",
+    "english": "Eternal as Earth and Sky",
+    "category": "love",
+    "edition": "blind",
+    "colorFamily": "red",
+    "story": {
+      "zh": "地久天长这四个字，骗了好多人。地球都 46 亿年了，再久也有一天不在。但你想，那一天不在也是\"地久天长\"的一部分。这张卡写给所有害怕\"有一天\"的人。",
+      "en": "Eternal as Earth and Sky — these four words lied to many. The earth is 4.6 billion years old, one day it will not be. But that day not being is also part of Eternal. This seal, for everyone afraid of one day."
+    }
+  },
+  {
+    "code": "R11",
+    "chinese": "海誓山盟",
+    "english": "Vows as Vast as Sea and Mountain",
+    "category": "love",
+    "edition": "blind",
+    "colorFamily": "red",
+    "story": {
+      "zh": "海誓山盟，誓言最不值钱。但你发现没，最不信誓言的人，最爱发誓。爱情里真正有分量的不是那一句\"我愿意\"，是后面十年你每天起来还是选择这个人。这张卡放在床下，是给后面那十年的。",
+      "en": "Vows as Vast as Sea and Mountain — vows are cheap. But notice, those who trust vows least, swear the most. In love, what carries weight is not the I do, but the next ten years, every morning, choosing that person again. This seal under the bed, for those ten years."
+    }
+  },
+  {
+    "code": "R12",
+    "chinese": "如胶似漆",
+    "english": "Clinging as Glue and Lacquer",
+    "category": "love",
+    "edition": "blind",
+    "colorFamily": "red",
+    "story": {
+      "zh": "如胶似漆，听着甜蜜，其实是写过了头的爱情。新鲜的爱情会，五年十年的不会。真的爱情是会累的，是会嫌的，是会有某个晚上你看手机他看手机的。这张印的，是熬过那段胶漆劲之后的、淡但真的。",
+      "en": "Clinging as Glue and Lacquer sounds sweet. It is actually about over-fresh love. New love does. Five-year love does not. Real love is tired, is annoyed, is the evening when you look at the phone and he looks at his. This seal, for after the glue dries, when it is quiet and true."
+    }
+  },
+  {
+    "code": "R13",
+    "chinese": "举案齐眉",
+    "english": "Raising Trays to Eyebrow Height",
+    "category": "love",
+    "edition": "blind",
+    "colorFamily": "red",
+    "story": {
+      "zh": "举案齐眉，是说妻子给丈夫送饭，举到眉毛那么高，是敬。这一张印的，是给所有为家里那个 ta 做饭、端饭的人。",
+      "en": "Raising Trays to Eyebrow Height — the wife serves the husband, raising the tray to eyebrow height, respect. This seal, for everyone who cooks and serves for the one at home."
+    }
+  },
+  {
+    "code": "R14",
+    "chinese": "相敬如宾",
+    "english": "Mutual Respect as Guests",
+    "category": "love",
+    "edition": "blind",
+    "colorFamily": "red",
+    "story": {
+      "zh": "相敬如宾，\"宾\"是客人。这一张印的，是给那种\"结婚十年还把对方当客人\"的人。这种关系最耐看。",
+      "en": "Mutual Respect as Guests — bin is guest. This seal, for those who treat their partner as a guest after ten years of marriage. This kind of relationship lasts longest."
+    }
+  },
+  {
+    "code": "R15",
+    "chinese": "白头偕老",
+    "english": "Growing Old Together",
+    "category": "love",
+    "edition": "blind",
+    "colorFamily": "red",
+    "story": {
+      "zh": "白头偕老，白头是头发白了。这张印的，是给那种\"不打算白头也白头了\"的人。",
+      "en": "Growing Old Together — white head is gray hair. This seal, for those who did not plan to grow old together but did."
+    }
+  },
+  {
+    "code": "R16",
+    "chinese": "同心同德",
+    "english": "One Heart, One Virtue",
+    "category": "love",
+    "edition": "blind",
+    "colorFamily": "red",
+    "story": {
+      "zh": "同心同德，同心是心一样，同德是道义一样。这一张印的，是给那种吵架吵不出\"我错了\"、但吵得出\"我下次改\"的人。",
+      "en": "One Heart, One Virtue — one heart is same heart, one virtue is same principle. This seal, for those who cannot say I was wrong in a fight, but can say I will do better next time."
+    }
+  },
+  {
+    "code": "R17",
+    "chinese": "如影随形",
+    "english": "Inseparable as Shadow Follows Form",
+    "category": "love",
+    "edition": "blind",
+    "colorFamily": "red",
+    "story": {
+      "zh": "如影随形，影是影子。这一张印的，是给那种\"你走到哪我都跟着、但你没察觉\"的爱。",
+      "en": "Inseparable as Shadow Follows Form — shadow is shadow. This seal, for the kind of love that goes where you go, but you do not notice."
+    }
+  },
+  {
+    "code": "R18",
+    "chinese": "心有灵犀",
+    "english": "Hearts Connected at a Glance",
+    "category": "love",
+    "edition": "blind",
+    "colorFamily": "red",
+    "story": {
+      "zh": "心有灵犀，灵是灵，犀是犀牛。古人用一种动物说一种感觉——世上最贵的，是不用说话就懂。这张印的，是给那种\"吵完架一个眼神就和好\"的人。",
+      "en": "Hearts Connected at a Glance — ling is spirit, xi is rhinoceros. The ancients used an animal to name a feeling — the most expensive thing in the world is understanding without words. This seal, for those who fight, then a glance, then make up."
+    }
+  },
+  {
+    "code": "R19",
+    "chinese": "朝朝暮暮",
+    "english": "Morning and Evening, Forever",
+    "category": "love",
+    "edition": "blind",
+    "colorFamily": "red",
+    "story": {
+      "zh": "朝朝暮暮，早和晚。这一张印在床头柜两个抽屉上——一边是 ta 的，一边是你的。",
+      "en": "Morning and Evening, Forever — morning and evening. This seal, on the two drawers of the nightstand — one is theirs, one is yours."
+    }
+  },
+  {
+    "code": "R20",
+    "chinese": "长乐未央",
+    "english": "Boundless Eternal Joy",
+    "category": "life",
+    "edition": "blind",
+    "colorFamily": "red",
+    "story": {
+      "zh": "长乐未央，\"未央\"是还没有完。你看古人多会选字——不写\"永远快乐\"，写\"还没有完\"。这是承认快乐会断，但还会再来。这张卡，是给所有快乐断过、又接上的人。",
+      "en": "Boundless Eternal Joy — wei yang means not yet ended. The ancients knew the words. They did not write forever happy. They wrote not yet ended. Joy breaks, but it comes back. This seal, for everyone whose joy broke and reconnected."
+    }
+  },
+  {
+    "code": "R21",
+    "chinese": "喜气盈庭",
+    "english": "Joy Fills the Courtyard",
+    "category": "life",
+    "edition": "blind",
+    "colorFamily": "red",
+    "story": {
+      "zh": "喜气盈庭，\"喜\"这个字你写得越多越不真。但真正的喜气不是\"喜\"字贴多少，是你进家门那一刻老婆抬头的眼神。这张印在门口的钥匙盒里，让每一次回家都带着\"喜气\"两个字。",
+      "en": "Joy Fills the Courtyard — the more you write the character 喜, the less real it is. Real joy is not how many 喜 characters you paste, it is the way your partner looks up when you walk in. This seal, on the key box by the door. So every homecoming carries it."
+    }
+  },
+  {
+    "code": "R22",
+    "chinese": "团圆美满",
+    "english": "Reunion in Perfect Harmony",
+    "category": "love",
+    "edition": "blind",
+    "colorFamily": "red",
+    "story": {
+      "zh": "团圆美满，四个字中国人最重。过年回家那张高铁票多少钱不重要，重要的是妈妈看你一眼说\"瘦了\"。这一张是给所有在外的人——团圆是回得去的，美满是心里记着的。",
+      "en": "Reunion in Perfect Harmony — these four words weigh most in China. The train ticket home does not matter. What matters is your mother looking once and saying, you got thinner. This seal, for everyone far away. Reunion is being able to go back. Perfection is what stays in the heart."
+    }
+  },
+  {
+    "code": "R23",
+    "chinese": "恩爱不移",
+    "english": "Love Unchanging",
+    "category": "love",
+    "edition": "blind",
+    "colorFamily": "red",
+    "story": {
+      "zh": "恩爱不移，\"不移\"是这四个字里最重的。爱情里，移是常态——注意力会移，精力会移，喜欢会移。不移不是没移过，是移了又回来。这张卡写给那些\"移过又回来了\"的人。",
+      "en": "Love Unchanging — unchanging is the heaviest word. In love, shifting is normal. Attention shifts, energy shifts, liking shifts. Unchanging is not never shifted. It is shifted and came back. This seal, for those who left and returned."
+    }
+  },
+  {
+    "code": "R24",
+    "chinese": "相守一生",
+    "english": "Together for a Lifetime",
+    "category": "love",
+    "edition": "blind",
+    "colorFamily": "red",
+    "story": {
+      "zh": "相守一生，听着像一句承诺，其实是一种习惯。早起做早餐，等他/她洗完澡，睡前关灯。每一件都是小事，但加在一起就是一生。这一张印的不是承诺，是习惯。",
+      "en": "Together for a Lifetime sounds like a promise. It is a habit. The morning breakfast, waiting for them to shower, turning off the light before bed. Each is small. All together, a lifetime. This seal is not a promise. It is a habit."
+    }
+  },
+  {
+    "code": "R25",
+    "chinese": "幸福永驻",
+    "english": "Happiness Forever Dwells",
+    "category": "love",
+    "edition": "blind",
+    "colorFamily": "red",
+    "story": {
+      "zh": "幸福永驻，永驻是骗人的。但你拍一下这四个字的卡片，能让你相信三秒。三秒够了。三秒够你把气喘顺，把眉头松开，把下一句话好好说。这张印的，是那三秒。",
+      "en": "Happiness Forever Dwells — forever is a lie. But you look at this card for three seconds, you believe. Three seconds is enough. To breathe, to loosen the brow, to say the next sentence well. This seal, for those three seconds."
+    }
+  },
+  {
+    "code": "P01",
+    "chinese": "紫微星耀",
+    "english": "The Purple Star Shines",
+    "category": "career",
+    "edition": "blind",
+    "colorFamily": "purple",
+    "story": {
+      "zh": "你努力很久了。加班、复盘、忍住没发的脾气，忍住没说出口的话。但你发现，方向这种东西，不是靠更努力就能搞清楚的。紫微是中天之主，是那一颗不动的星。古人说它照谁，谁的盘就定。定，不是别人给的，是你自己坐下来，承认你在等一个东西。",
+      "en": "You have been working hard for a long time. The overtime, the review, the thing you did not say. Direction, you realize, is not solved by trying harder. The Purple Star is the one fixed light. It shines on whoever sits down and admits what they have been waiting for."
+    }
+  },
+  {
+    "code": "P02",
+    "chinese": "北斗注生",
+    "english": "The Northern Dipper Bestows Life",
+    "category": "life",
+    "edition": "blind",
+    "colorFamily": "purple",
+    "story": {
+      "zh": "北斗注生，这是古人对生命从哪里来的一种回答。七个星君排成勺子，每天从你家屋顶转过去。古人不说它们在转，说它们在\"注\"——像打点滴一样，把生命一点一点注下来。这张卡不是让你求长寿，是让你记得自己还在被注着。",
+      "en": "The Northern Dipper Bestows Life — the ancients answer to where life comes from. Seven stars, ladle-shaped, turn over your roof every night. The ancients did not say they turn, they said they bestow — like a slow IV drip of life. This seal is not for long life. It is a reminder that you are still being bestowed."
+    }
+  },
+  {
+    "code": "P03",
+    "chinese": "南斗延寿",
+    "english": "The Southern Dipper Extends Life",
+    "category": "life",
+    "edition": "blind",
+    "colorFamily": "purple",
+    "story": {
+      "zh": "南斗和北斗相对，一个管生一个管寿。古人写\"南斗延寿\"的时候特别温柔——延不是加，是拉长。像把一段皱巴巴的纸轻轻抚平。这一张印的，是给那些想多陪孩子几年、多看几年人间的人。",
+      "en": "The Southern Dipper Extends Life — paired with the Northern one, one rules birth, one longevity. The ancients wrote extend gently. Extend is not add, it is lengthen. Like smoothing a wrinkled paper. This seal, for those who want a few more years with their children, a few more years of being human."
+    }
+  },
+  {
+    "code": "P04",
+    "chinese": "文昌启运",
+    "english": "Wen Chang Opens Fortune",
+    "category": "career",
+    "edition": "blind",
+    "colorFamily": "purple",
+    "story": {
+      "zh": "文昌帝君管的是读书、写作、考试、面试。这一颗星在中国一千多年了，每一个寒窗苦读的人都抬头看过它。但你今天知道，文昌不是替你考好，是让你坐下来那一刻心定下来。这一张印的，是坐下那一下。",
+      "en": "Wen Chang rules study, writing, exams, interviews. This star, over a thousand years in China, every student who burned the midnight oil looked up at it. But you know today, Wen Chang does not take the test for you. It lets your heart settle the moment you sit down. This seal, for that one moment of sitting down."
+    }
+  },
+  {
+    "code": "P05",
+    "chinese": "武曲临照",
+    "english": "Wu Qu Shines Upon",
+    "category": "wealth",
+    "edition": "blind",
+    "colorFamily": "purple",
+    "story": {
+      "zh": "武曲是北斗的第六颗。古人说它管财，但武曲不直接给钱，它给的是\"敢要\"的胆量。你今天不敢谈的薪水、不敢收的尾款、不敢要的署名，武曲就是那一瞬间的开口。这张印的，是开口前的那一拍。",
+      "en": "Wu Qu is the sixth of the Dipper. The ancients said it ruled money, but Wu Qu does not give money directly. It gives the courage to ask. The salary you do not dare negotiate, the final payment you do not dare collect, the byline you do not dare claim. Wu Qu is that one second before you speak. This seal, for that one beat."
+    }
+  },
+  {
+    "code": "P06",
+    "chinese": "太阴护命",
+    "english": "The Moon Protects Life",
+    "category": "life",
+    "edition": "blind",
+    "colorFamily": "purple",
+    "story": {
+      "zh": "太阴是月。古人把月和\"护命\"放在一起，是因为月是夜里的主。太阳照白天，太阴守夜里。你夜里失眠、梦里惊醒、夜里一个人开车回家，这颗星是陪你那个的。这张印在床头柜上，亮的那一面朝你。",
+      "en": "Tai Yin is the moon. The ancients paired the moon with protecting life, because the moon rules the night. The sun lights the day, the moon guards the night. When you cannot sleep, when you wake from a dream, when you drive home alone at night, this star is with you. This seal on the nightstand, the bright side facing you."
+    }
+  },
+  {
+    "code": "P07",
+    "chinese": "太阳普照",
+    "english": "The Sun Shines Wide",
+    "category": "life",
+    "edition": "blind",
+    "colorFamily": "purple",
+    "story": {
+      "zh": "太阳普照，最普通也最不能少。这一颗星每天升起来，没人抬头看，但它在。普照的意思不是给谁特别的光，是给所有人的光。普通日子普通过，缺这颗星的人知道。这一张印的，是给你那些普通日子。",
+      "en": "The Sun Shines Wide — the most ordinary star, also the most necessary. It rises every day, no one looks up, but it is there. Wide does not mean special light for someone. It means light for everyone. Ordinary days, ordinary life. Those without this star know. This seal, for your ordinary days."
+    }
+  },
+  {
+    "code": "P08",
+    "chinese": "玉衡权衡",
+    "english": "Yu Heng Balances",
+    "category": "career",
+    "edition": "blind",
+    "colorFamily": "purple",
+    "story": {
+      "zh": "玉衡是天罡北斗的第五颗。星象上它是审案子、量轻重的。古人把这颗星请到身边，多半是做了亏心事的夜里。今天你也会有这种夜，做了一件自己都说不清的事。这张印的，不是替你脱罪，是让你那一晚好睡一点。",
+      "en": "Yu Heng is the fifth of the Northern Dipper. In astrology, it judges and weighs. The ancients invited this star near, usually on a night of guilty conscience. You have those nights too, when you did something you cannot explain. This seal does not acquit you. It lets you sleep a little better that night."
+    }
+  },
+  {
+    "code": "P09",
+    "chinese": "天权立极",
+    "english": "Tian Quan Establishes the Pivot",
+    "category": "career",
+    "edition": "blind",
+    "colorFamily": "purple",
+    "story": {
+      "zh": "天权是北斗的第四颗。古人把这颗星的位置说成\"立极\"——定中心。一个家里、一个公司里，总有一个人是那个中心。但中心不是最舒服的，是最累的。这一张印的，是给所有当过中心、累过、想过辞职的人。",
+      "en": "Tian Quan is the fourth of the Dipper. The ancients gave this star the role of establishing the pivot — the center. In every home, every company, one person is the center. But the center is not the most comfortable. It is the most tired. This seal, for everyone who has been the center, has been tired, has thought of quitting."
+    }
+  },
+  {
+    "code": "P10",
+    "chinese": "天机玄妙",
+    "english": "Heavenly Mechanism Mysterious",
+    "category": "career",
+    "edition": "blind",
+    "colorFamily": "purple",
+    "story": {
+      "zh": "天机是天罡北斗的第三颗，古人说它管\"谋\"。但是谋字太重了，我们普通人不谋国家大事。天机在我们这里，是晚饭吃什么、孩子上哪个兴趣班、这个月要换工作吗。每一个小决定，都是一桩谋。这一张印的，是让你对自己那些小谋多一分尊重。",
+      "en": "Tian Ji is the third of the Dipper. The ancients said it ruled strategy. But strategy is heavy. We ordinary do not strategize nations. Tian Ji for us is what to eat for dinner, which class for the child, do I switch jobs this month. Each small decision, a strategy. This seal, a little more respect for your own small strategies."
+    }
+  },
+  {
+    "code": "P11",
+    "chinese": "开阳照世",
+    "english": "Kai Yang Illuminates the World",
+    "category": "life",
+    "edition": "blind",
+    "colorFamily": "purple",
+    "story": {
+      "zh": "开阳是北斗的第六颗。古人说它照世——照亮这个世界。这四个字听着宏大，其实在你身上就是：晚上加班回家，路灯一盏一盏亮着，你抬头看见它们。每一盏都是一个开阳。这张印在钥匙扣上，每天回家看一眼。",
+      "en": "Kai Yang is the sixth of the Dipper. The ancients said it illuminated the world. These four words sound grand. On you, it is: late night coming home, the street lamps light up one by one, you look up at them. Each lamp is a Kai Yang. This seal, on the keychain, one look every day home."
+    }
+  },
+  {
+    "code": "P12",
+    "chinese": "瑶光引路",
+    "english": "Yao Guang Leads the Way",
+    "category": "life",
+    "edition": "blind",
+    "colorFamily": "purple",
+    "story": {
+      "zh": "瑶光是北斗的最后一颗。古人写\"引路\"两字最朴素——引就是引，路就是路，不加形容词。这张卡是给所有不知道下一步怎么走的人。你不需要知道路有多长，只需要知道下一步。",
+      "en": "Yao Guang is the last star of the Dipper. The ancients wrote lead the way, two plain words. Lead is lead, way is way, no adjectives. This seal, for everyone who does not know the next step. You do not need to know how long the road is. You only need the next step."
+    }
+  },
+  {
+    "code": "P13",
+    "chinese": "勾陈御世",
+    "english": "Gou Chen Governs the World",
+    "category": "career",
+    "edition": "blind",
+    "colorFamily": "purple",
+    "story": {
+      "zh": "勾陈是天上六颗星组成的小方阵。古人把它跟\"御世\"放在一起——不是统治，是打理。御世是给世界扫地的意思。这张印的，是给那些每天给孩子做饭、给老人换药、给猫铲屎的人。你每天在御世。",
+      "en": "Gou Chen is a small square of six stars in the sky. The ancients paired it with governing the world. Not ruling, tending. Governing the world means sweeping the floor for the world. This seal, for those who cook for the child, change the medicine for the elder, scoop the litter for the cat. You govern the world every day."
+    }
+  },
+  {
+    "code": "P14",
+    "chinese": "天市云集",
+    "english": "Heavenly Market Gathers",
+    "category": "wealth",
+    "edition": "blind",
+    "colorFamily": "purple",
+    "story": {
+      "zh": "天市是二十八宿之一，古人把它跟市场、商贾、交易放在一起。这颗星的意思不是让你多赚钱，是让你做买卖的时候心里明白——什么该卖什么不该卖，什么价该让什么价该守。这一张印在钱包的夹层里，每次打开看一眼。",
+      "en": "Heavenly Market is one of the twenty-eight mansions. The ancients tied it to markets, merchants, trade. This star is not about earning more. It is about knowing in trade — what to sell what not, what price to give, what price to hold. This seal, in the inner pocket of the wallet. Open it, look once."
+    }
+  },
+  {
+    "code": "P15",
+    "chinese": "紫气凌霄",
+    "english": "Purple Energy Ascends to the Heavens",
+    "category": "life",
+    "edition": "blind",
+    "colorFamily": "purple",
+    "story": {
+      "zh": "紫气凌霄，\"凌\"是逼近、冲上去的意思。紫气在道教里是祥瑞的极致。这张卡是给那种正在冲的、正在扛的、正在向一个东西逼近的人。你知道那个东西是什么，不用我说。",
+      "en": "Purple Energy Ascends to the Heavens — ling means to push up against, to surge. Purple energy is the highest auspicious sign in Daoism. This seal, for those pushing, carrying, surging toward something. You know what that thing is. I do not need to say."
+    }
+  },
+  {
+    "code": "P16",
+    "chinese": "北辰所居",
+    "english": "The North Star Abides",
+    "category": "career",
+    "edition": "blind",
+    "colorFamily": "purple",
+    "story": {
+      "zh": "北辰所居，北辰是北极星。所有星星都动，就它不动。古人把这一颗星叫\"所居\"——住下来的意思。你今天在哪个城市、住哪个房子、坐哪个位子，这张卡写的是：你的北辰不需要漂亮，只需要不动。",
+      "en": "The North Star Abides — the Pole Star. All stars move, only this one does not. The ancients called it where one abides. Whatever city you are in, whatever house, whatever seat, this seal says: your Pole Star does not need to be beautiful. It only needs to not move."
+    }
+  },
+  {
+    "code": "P17",
+    "chinese": "太乙垂光",
+    "english": "Tai Yi Casts Its Light",
+    "category": "life",
+    "edition": "blind",
+    "colorFamily": "purple",
+    "story": {
+      "zh": "太乙垂光，太乙是天之最尊。古人写\"垂光\"——垂是把光放低。光本来在天上，太乙把它放到人间。这一张印的，是给所有把光放低的人：老师、医生、父母、出租车司机。",
+      "en": "Tai Yi Casts Its Light — Tai Yi is the most honored in heaven. The ancients wrote casts light — chui means to lower. Light was in the sky. Tai Yi lowered it to the world. This seal, for everyone who lowers their light: teachers, doctors, parents, taxi drivers."
+    }
+  },
+  {
+    "code": "P18",
+    "chinese": "三台护佑",
+    "english": "Three Platforms Guard",
+    "category": "life",
+    "edition": "blind",
+    "colorFamily": "purple",
+    "story": {
+      "zh": "三台护佑，三台是三组星。古人把\"护\"字用得小心——不是救，是挡。护佑是你不察觉的情况下有人替你挡了事。这一张印的，是给那些你没见过、但你欠一句谢谢的人。",
+      "en": "Three Platforms Guard — three groups of stars. The ancients used the word guard carefully. Not save, block. Guarding is someone blocks for you without you knowing. This seal, for those you have not met, but owe a thank you."
+    }
+  },
+  {
+    "code": "P19",
+    "chinese": "天乙贵人",
+    "english": "Heavenly Yi Nobleman",
+    "category": "career",
+    "edition": "blind",
+    "colorFamily": "purple",
+    "story": {
+      "zh": "天乙是贵人星。古人写\"天乙贵人\"是承认一个事实：你这辈子不是一个人扛下来的。总有人在某个节点上接住你。这张印的，是让你记得：今天也有，今天你也是别人的贵人。",
+      "en": "Heavenly Yi is the nobleman star. The ancients wrote Heavenly Yi Nobleman to admit a fact. You did not carry this life alone. Someone caught you at some point. This seal is a reminder — today too. Today you are someone else nobleman."
+    }
+  },
+  {
+    "code": "P20",
+    "chinese": "华盖覆顶",
+    "english": "Canopy Covers from Above",
+    "category": "career",
+    "edition": "blind",
+    "colorFamily": "purple",
+    "story": {
+      "zh": "华盖覆顶，华盖是帝王头上那把伞。这张印在车里挂着，保的是开车的人。覆顶的意思是：不管你开多快，头顶那把伞一直在。这一张写给所有每天通勤的人。",
+      "en": "Canopy Covers from Above — the canopy is the umbrella over the emperor. This seal, hung in the car, protects the driver. Covers from Above means: however fast you drive, the canopy is over you. This seal, for everyone commuting every day."
+    }
+  },
+  {
+    "code": "P21",
+    "chinese": "月华如水",
+    "english": "Moonlight Flows Like Water",
+    "category": "life",
+    "edition": "blind",
+    "colorFamily": "purple",
+    "story": {
+      "zh": "月华如水，月亮的光古人用\"水\"形容，因为水能映万物。你今天看月亮的时候，不是在看月亮，是在看水。这一张印在镜子上，每天早上照镜子想起\"我是被映的\"。",
+      "en": "Moonlight Flows Like Water — the ancients described moonlight as water, because water reflects all things. When you look at the moon today, you are not looking at the moon. You are looking at water. This seal, on the mirror. Every morning looking in, you remember: I am being reflected."
+    }
+  },
+  {
+    "code": "P22",
+    "chinese": "星辰引路",
+    "english": "Stars Guide the Path",
+    "category": "life",
+    "edition": "blind",
+    "colorFamily": "purple",
+    "story": {
+      "zh": "星辰引路，星星不会给你写一份完整计划书，但每一颗都是一个小箭头。你今天遇到的人、看到的字、听到的一句话，都是其中一颗。这一张印的，是让你在那些看似无关的小箭头里看见路径。",
+      "en": "Stars Guide the Path — stars will not write you a full plan, but each is a small arrow. The person you meet today, the word you see, the sentence you hear, each is a star. This seal, to let you see the path through those small, seemingly unrelated arrows."
+    }
+  },
+  {
+    "code": "P23",
+    "chinese": "云衢通玄",
+    "english": "Cloud Path Reaches the Mysterious",
+    "category": "career",
+    "edition": "blind",
+    "colorFamily": "purple",
+    "story": {
+      "zh": "云衢通玄，云衢是云里的路。古人知道云很高，但云里的路通到更玄的地方。这张印的，是给所有走到半路、想往回走的人。前面的路通到哪，没人知道，但走过的路不会消失。",
+      "en": "Cloud Path Reaches the Mysterious — cloud path is the road in the clouds. The ancients knew clouds are high, but the road in them reaches somewhere more mysterious. This seal, for those half-way and want to turn back. Where the road ahead leads, no one knows. But the road behind does not disappear."
+    }
+  },
+  {
+    "code": "P24",
+    "chinese": "天关通圣",
+    "english": "Heaven's Gate Reaches the Sacred",
+    "category": "career",
+    "edition": "blind",
+    "colorFamily": "purple",
+    "story": {
+      "zh": "天关通圣，天关是天上的门。古人说这门是给圣人开的，不是给聪明人开的。圣和聪不一样——聪是反应快，圣是看得远。这一张印的，是给那些反应不快但看得远的人。",
+      "en": "Heaven Gate Reaches the Sacred — heaven gate is the door in the sky. The ancients said it opens for the sacred, not the clever. Sacred and clever are not the same. Clever is fast reaction. Sacred is far sight. This seal, for those who are not fast but see far."
+    }
+  },
+  {
+    "code": "P25",
+    "chinese": "灵台清明",
+    "english": "Spirit Platform Clear and Bright",
+    "category": "life",
+    "edition": "blind",
+    "colorFamily": "purple",
+    "story": {
+      "zh": "灵台清明，灵台是心。古人把心叫\"灵台\"——灵是灵敏，台是稳。心既要灵又要稳，是最难的事。这一张印的，是给你今晚临睡前那一刻：呼吸慢下来，灵台自己会清。",
+      "en": "Spirit Platform Clear and Bright — spirit platform is the heart. The ancients called the heart spirit platform — ling is sensitive, tai is steady. The heart both sensitive and steady, this is the hardest thing. This seal, for that moment before you sleep tonight: breath slow down, the platform clears itself."
+    }
+  },
+  {
+    "code": "B01",
+    "chinese": "玄天镇岳",
+    "english": "Mystic Heaven Guards the Peaks",
+    "category": "life",
+    "edition": "blind",
+    "colorFamily": "black",
+    "story": {
+      "zh": "玄天镇岳，玄天是北方的天。古人觉得北方的天是实的，能压住东西。这一张印的，是给那种压得住事的人。你心里压了多少事，自己知道。这一张卡不让你卸下，是告诉你\"压得住\"这件事本身有重量。",
+      "en": "Mystic Heaven Guards the Peaks — mystic heaven is the northern sky. The ancients felt the northern sky was solid, could press down on things. This seal, for those who can press down on things. You know how much you hold. This card does not unload you. It tells you: being able to press down has weight."
+    }
+  },
+  {
+    "code": "B02",
+    "chinese": "雷部敕令",
+    "english": "Thunder Command",
+    "category": "life",
+    "edition": "blind",
+    "colorFamily": "black",
+    "story": {
+      "zh": "雷部敕令，雷部是天上一支执法的队伍。古人写\"敕令\"二字最重——敕是命令，令是执行。这张卡是给那些说话算数的人。你说的每一句话都敕令，你知道的。",
+      "en": "Thunder Command — Thunder Department is a law-enforcement team in heaven. The ancients wrote the two characters chi ling with the heaviest meaning. Chi is command, ling is execution. This seal, for those whose word counts. Every word you say is command. You know."
+    }
+  },
+  {
+    "code": "B03",
+    "chinese": "五雷正法",
+    "english": "True Thunder Method",
+    "category": "life",
+    "edition": "blind",
+    "colorFamily": "black",
+    "story": {
+      "zh": "五雷正法，雷是天的声音。古人说\"正法\"是五种正当的雷。这一张印的，是给那些听过真话的人。真的雷不好听，但听了心里那根歪的会正。",
+      "en": "True Thunder Method — thunder is the sound of heaven. The ancients said true method is five kinds of rightful thunder. This seal, for those who have heard the truth. Real thunder does not sound good. But the crooked thing in you straightens."
+    }
+  },
+  {
+    "code": "B04",
+    "chinese": "神将护身",
+    "english": "Divine General Protects",
+    "category": "life",
+    "edition": "blind",
+    "colorFamily": "black",
+    "story": {
+      "zh": "神将护身，神将是天上的兵。古人写\"护身\"是贴身的意思。这一张印的，是给那种你身边那个一直在护着你、但你从来不知道的人。",
+      "en": "Divine General Protects — divine general is a soldier in heaven. The ancients wrote protect body as close to the body. This seal, for that person next to you who has been protecting you, but you never knew."
+    }
+  },
+  {
+    "code": "B05",
+    "chinese": "八威镇邪",
+    "english": "Eight Powers Subdue Evil",
+    "category": "life",
+    "edition": "blind",
+    "colorFamily": "black",
+    "story": {
+      "zh": "八威镇邪，威是威严，邪是邪气。古人说八种威严能镇住八种邪气。这一张印的，是给那些\"硬气\"的人。硬气不是凶，是不靠别人也能站住。",
+      "en": "Eight Powers Subdue Evil — wei is dignity, xie is evil. The ancients said eight dignity subdue eight evil. This seal, for the hard-boned. Hard-boned is not fierce. It is standing without leaning on others."
+    }
+  },
+  {
+    "code": "B06",
+    "chinese": "六丁六甲",
+    "english": "Six Ding Six Jia",
+    "category": "life",
+    "edition": "blind",
+    "colorFamily": "black",
+    "story": {
+      "zh": "六丁六甲，这是道教里十二位护法的名字。古人把它们请到家里，门上贴一张。这一张印的，是给那种\"家里有规矩\"的人。规矩不是框，是护栏。",
+      "en": "Six Ding Six Jia — these are the names of twelve protectors in Daoism. The ancients invited them home, pasted one on the door. This seal, for those whose home has rules. Rules are not cages. They are guardrails."
+    }
+  },
+  {
+    "code": "B07",
+    "chinese": "七星斩煞",
+    "english": "Seven Stars Cut Down Evil",
+    "category": "life",
+    "edition": "blind",
+    "colorFamily": "black",
+    "story": {
+      "zh": "七星斩煞，七星是天枢、天璇、天玑、天权、玉衡、开阳、瑶光。古人把这一组星叫\"斩\"——斩断。煞是凶。这一张印的，是给那种\"被凶气追过、但走过来了\"的人。",
+      "en": "Seven Stars Cut Down Evil — the seven stars. The ancients called this group cut. Cut through. Evil is sha. This seal, for those who were chased by evil, but walked through."
+    }
+  },
+  {
+    "code": "B08",
+    "chinese": "玄武镇北",
+    "english": "Black Tortoise Guards the North",
+    "category": "life",
+    "edition": "blind",
+    "colorFamily": "black",
+    "story": {
+      "zh": "玄武镇北，玄武是龟蛇合体的神。古人把它放在北方，是给北方一个守。这一张印在朝北的窗上，是给那种\"家里靠北边那间房还住着\"的人。",
+      "en": "Black Tortoise Guards the North — Black Tortoise is a turtle-snake god. The ancients placed it in the north, to guard the north. This seal on the north-facing window, for those whose north room is still lived in."
+    }
+  },
+  {
+    "code": "B09",
+    "chinese": "白虎肃西",
+    "english": "White Tiger Subdues the West",
+    "category": "life",
+    "edition": "blind",
+    "colorFamily": "black",
+    "story": {
+      "zh": "白虎肃西，白虎是西方的主神。古人把\"肃\"字用得很重——肃是清场。这一张印的，是给那种下了班就把工作关在门外的人。你需要那个肃。",
+      "en": "White Tiger Subdues the West — White Tiger is the main god of the west. The ancients used the word su heavily. Su is clearing the field. This seal, for those who close work outside the door when they leave. You need that clearing."
+    }
+  },
+  {
+    "code": "B10",
+    "chinese": "青龙镇东",
+    "english": "Azure Dragon Guards the East",
+    "category": "life",
+    "edition": "blind",
+    "colorFamily": "black",
+    "story": {
+      "zh": "青龙镇东，青龙是东方的神。古人把\"东\"叫生气之方。这一张印在朝东的窗上，是给那种\"早上第一缕光照在桌上\"的人。",
+      "en": "Azure Dragon Guards the East — Azure Dragon is the god of the east. The ancients called east the place of rising qi. This seal on the east-facing window, for those whose first morning light falls on the desk."
+    }
+  },
+  {
+    "code": "B11",
+    "chinese": "朱雀焚邪",
+    "english": "Vermilion Bird Burns Evil",
+    "category": "life",
+    "edition": "blind",
+    "colorFamily": "black",
+    "story": {
+      "zh": "朱雀焚邪，朱雀是南方的火鸟。古人用\"焚\"字——烧掉。邪气不是赶走，是烧。这一张印的，是给那些把不快烧干净的人。",
+      "en": "Vermilion Bird Burns Evil — Vermilion Bird is the fire bird of the south. The ancients used the word burn. Evil is not chased away, it is burned. This seal, for those who burn away the unkindness."
+    }
+  },
+  {
+    "code": "B12",
+    "chinese": "腾蛇缠缚",
+    "english": "Flying Serpent Binds",
+    "category": "life",
+    "edition": "blind",
+    "colorFamily": "black",
+    "story": {
+      "zh": "腾蛇缠缚，腾蛇是飞蛇。古人觉得蛇是缠的，所以用\"缠缚\"。这一张印的，是给那种被一段关系缠住的人。缠住不是坏，但你要知道它缠住了。",
+      "en": "Flying Serpent Binds — flying serpent. The ancients felt serpents bind. So they used the word bind. This seal, for those bound by a relationship. Bound is not bad, but you have to know it is binding."
+    }
+  },
+  {
+    "code": "B13",
+    "chinese": "勾陈镇中",
+    "english": "Gou Chen Guards the Center",
+    "category": "life",
+    "edition": "blind",
+    "colorFamily": "black",
+    "story": {
+      "zh": "勾陈镇中，勾陈是中央那一颗。古人把\"中\"叫不偏。这一张印的，是给那种不偏不倚走了很久的人。你不偏，但不偏也累。",
+      "en": "Gou Chen Guards the Center — Gou Chen is the star at the center. The ancients called center not leaning. This seal, for those who have walked long without leaning. You do not lean, but not leaning is tiring too."
+    }
+  },
+  {
+    "code": "B14",
+    "chinese": "天罡正气",
+    "english": "Heavenly Dipper Righteous Energy",
+    "category": "life",
+    "edition": "blind",
+    "colorFamily": "black",
+    "story": {
+      "zh": "天罡正气，罡是刚正。这一张印在单位的桌上，是给那种\"被不公对待过、但没弯腰\"的人。",
+      "en": "Heavenly Dipper Righteous Energy — gang is upright. This seal, on the office desk, for those treated unfairly but did not bend."
+    }
+  },
+  {
+    "code": "B15",
+    "chinese": "地煞护法",
+    "english": "Earth Fiend Protects",
+    "category": "life",
+    "edition": "blind",
+    "colorFamily": "black",
+    "story": {
+      "zh": "地煞护法，煞本意是凶，地煞是地上的凶。但古人用\"护法\"两字——连凶都护着法。这张印的，是给那些被凶对待、但依然守规矩的人。",
+      "en": "Earth Fiend Protects — sha means fierce, earth fiend is the fierce on earth. But the ancients used protect dharma. Even the fierce protect dharma. This seal, for those treated fiercely, but still keep the rules."
+    }
+  },
+  {
+    "code": "B16",
+    "chinese": "明堂聚灵",
+    "english": "Bright Hall Gathers Spirits",
+    "category": "life",
+    "edition": "blind",
+    "colorFamily": "black",
+    "story": {
+      "zh": "明堂聚灵，明堂是额头前面那块。古人说\"聚灵\"是把灵收进来。这一张印在办公桌前抬头看见的地方，是给那种\"开会前先看一眼自己\"的人。",
+      "en": "Bright Hall Gathers Spirits — bright hall is the space in front of the forehead. The ancients said gather spirits is to gather in. This seal, where you look up before a meeting, for those who look at themselves first."
+    }
+  },
+  {
+    "code": "B17",
+    "chinese": "玉堂清肃",
+    "english": "Jade Hall Pure and Solemn",
+    "category": "life",
+    "edition": "blind",
+    "colorFamily": "black",
+    "story": {
+      "zh": "玉堂清肃，玉堂是天帝的办公厅。古人用\"清肃\"两字——清是干净，肃是严肃。这一张印的，是给那种家里有\"安静规矩\"的人。",
+      "en": "Jade Hall Pure and Solemn — Jade Hall is the Heavenly Emperor office. The ancients used two characters — qing is clean, su is solemn. This seal, for those whose home has quiet rules."
+    }
+  },
+  {
+    "code": "B18",
+    "chinese": "龙渊镇邪",
+    "english": "Dragon Abyss Subdues Evil",
+    "category": "life",
+    "edition": "blind",
+    "colorFamily": "black",
+    "story": {
+      "zh": "龙渊镇邪，龙渊是龙住的水底。古人说龙在渊里不飞，但渊里的龙能镇住水。这一张印的，是给那些不显山不露水、但心里有数的人。",
+      "en": "Dragon Abyss Subdues Evil — dragon abyss is the water bottom where dragons live. The ancients said dragons in the abyss do not fly, but the dragon in the abyss holds the water still. This seal, for those who do not show off, but know in their heart."
+    }
+  },
+  {
+    "code": "B19",
+    "chinese": "虎啸风生",
+    "english": "Tiger's Roar Summons the Wind",
+    "category": "life",
+    "edition": "blind",
+    "colorFamily": "black",
+    "story": {
+      "zh": "虎啸风生，老虎一叫风就来。这一张印的，是给那种\"话不多但一开口就让人安静\"的人。",
+      "en": "Tiger Roar Summons the Wind — when the tiger roars, wind comes. This seal, for those who do not talk much, but when they speak, the room goes quiet."
+    }
+  },
+  {
+    "code": "B20",
+    "chinese": "金甲神威",
+    "english": "Golden Armor Divine Might",
+    "category": "life",
+    "edition": "blind",
+    "colorFamily": "black",
+    "story": {
+      "zh": "金甲神威，金甲是金色的铠甲。这一张印的，是给那种把自己穿得整整齐齐出门的人。铠甲不是给别人看的，是给自己的。",
+      "en": "Golden Armor Divine Might — golden armor is the golden armor. This seal, for those who dress neatly to go out. Armor is not for others to see. It is for yourself."
+    }
+  },
+  {
+    "code": "B21",
+    "chinese": "铁壁铜墙",
+    "english": "Iron Walls, Copper Fortress",
+    "category": "life",
+    "edition": "blind",
+    "colorFamily": "black",
+    "story": {
+      "zh": "铁壁铜墙，这是最普通的字。这一张印的，是给那种\"家里那道墙、那扇门、那扇窗\"还在的人。墙在，家在。",
+      "en": "Iron Walls Copper Fortress — the most ordinary words. This seal, for those whose wall, door, window is still there. The wall is there, the home is there."
+    }
+  },
+  {
+    "code": "B22",
+    "chinese": "金刚不坏",
+    "english": "Diamond Indestructible",
+    "category": "life",
+    "edition": "blind",
+    "colorFamily": "black",
+    "story": {
+      "zh": "金刚不坏，金刚是佛教里最硬的。这一张印的，是给那种被打过、被否定过、被骗过，但没碎的人。",
+      "en": "Diamond Indestructible — diamond is the hardest in Buddhism. This seal, for those who have been hit, denied, deceived, but did not break."
+    }
+  },
+  {
+    "code": "B23",
+    "chinese": "玉清敕令",
+    "english": "Jade Pure Command",
+    "category": "life",
+    "edition": "blind",
+    "colorFamily": "black",
+    "story": {
+      "zh": "玉清敕令，玉清是道教三清之一。\"敕\"是命令。这一张印的，是给那种\"自己下的命令自己守\"的人。",
+      "en": "Jade Pure Command — Jade Pure is one of the Three Pure Ones in Daoism. Chi is command. This seal, for those who keep the command they give themselves."
+    }
+  },
+  {
+    "code": "B24",
+    "chinese": "太清镇魔",
+    "english": "Supreme Pure Subdues Demons",
+    "category": "life",
+    "edition": "blind",
+    "colorFamily": "black",
+    "story": {
+      "zh": "太清镇魔，太清是三清之二。镇是镇住。这一张印的，是给那种\"心里那些乱七八糟的念头\"被镇住的人。镇住不是杀掉，是让它们安静。",
+      "en": "Supreme Pure Subdues Demons — Supreme Pure is the second of the Three. Zhen is to subdue. This seal, for those whose messy thoughts are subdued. Subduing is not killing, it is making them quiet."
+    }
+  },
+  {
+    "code": "B25",
+    "chinese": "上清荡邪",
+    "english": "Highest Pure Dispels Evil",
+    "category": "life",
+    "edition": "blind",
+    "colorFamily": "black",
+    "story": {
+      "zh": "上清荡邪，上清是三清之三。荡是荡开。这一张印的最后一字，是给那种\"邪气在身外荡开、但进不来\"的人。门关好，窗开一寸。",
+      "en": "Highest Pure Dispels Evil — Highest Pure is the third. Dang is to brush away. This last character of this seal, for those whose evil is brushed outside, not getting in. Door closed, window open one inch."
+    }
+  },
+  {
+    "code": "FR01",
+    "chinese": "琴瑟和鸣",
+    "english": "Harmony of Lute and Zither",
+    "category": "love",
+    "edition": "fixed",
+    "colorFamily": "red",
+    "story": {
+      "zh": "固定版里选了琴瑟和鸣，是因为这一对最经看。两把琴，一个调，不是谁压谁，是两条线一前一后。这一张放在家里两人都看得见的地方，不是为了一方让步，是让两个人想起当初怎么开始同一种节奏。",
+      "en": "In the fixed edition, this was chosen because the pair holds up best. Two instruments, one key, neither pressing the other, two lines one ahead one behind. This seal, where both of you can see it. Not for one to yield, but to remember how the same rhythm began."
+    }
+  },
+  {
+    "code": "FR02",
+    "chinese": "花好月圆",
+    "english": "Flowers Bloom, Moon Is Full",
+    "category": "love",
+    "edition": "fixed",
+    "colorFamily": "red",
+    "story": {
+      "zh": "固定版里选了花好月圆，是因为这四个字最适合贴在窗上。花开就开，月圆就圆，你不用管它们是不是对的时候。这一张印在窗上，提醒你：该开就开，该圆就圆。",
+      "en": "In the fixed edition, this was chosen because the four words suit a window best. Flower blooms, moon is full, you do not worry if it is the right time. This seal, on the window, a reminder: bloom when it blooms, be full when it is full."
+    }
+  },
+  {
+    "code": "FR03",
+    "chinese": "永结同心",
+    "english": "Bound Forever in Heart",
+    "category": "love",
+    "edition": "fixed",
+    "colorFamily": "red",
+    "story": {
+      "zh": "固定版里选了永结同心，是因为你结婚那天它出现得最多。这一张印在相册第一页或墙上最高那一点。它不说什么大话，它只是说：你结过了，记得。",
+      "en": "In the fixed edition, this was chosen because it appears most on your wedding day. This seal, on the first page of the album or the highest point on the wall. It says nothing grand. It only says: you tied. Remember."
+    }
+  },
+  {
+    "code": "FR04",
+    "chinese": "心有灵犀",
+    "english": "Hearts Connected at a Glance",
+    "category": "love",
+    "edition": "fixed",
+    "colorFamily": "red",
+    "story": {
+      "zh": "固定版里选了心有灵犀，是因为人老了之后眼神比话准。这一张印在床头那个小相框旁边。你醒来看它一眼，不用说话。",
+      "en": "In the fixed edition, this was chosen because as people age, eyes are truer than words. This seal, next to the small frame on the nightstand. You wake, look once. No words needed."
+    }
+  },
+  {
+    "code": "FR05",
+    "chinese": "相敬如宾",
+    "english": "Mutual Respect as Guests",
+    "category": "love",
+    "edition": "fixed",
+    "colorFamily": "red",
+    "story": {
+      "zh": "固定版里选了相敬如宾，是因为\"敬\"字最难。亲是本能，敬是要练的。这一张印在客厅最显眼的台面上，客人看见也无所谓。",
+      "en": "In the fixed edition, this was chosen because jing (respect) is hardest. Qin (closeness) is instinct, jing is practice. This seal, on the most visible surface in the living room. Guests see it, no matter."
+    }
+  },
+  {
+    "code": "FR06",
+    "chinese": "白头偕老",
+    "english": "Growing Old Together",
+    "category": "love",
+    "edition": "fixed",
+    "colorFamily": "red",
+    "story": {
+      "zh": "固定版里选了白头偕老，是因为这四个字你刚结婚时不觉得有重量，十年后才有。这一张印在主卧最里面那面墙上，每天睡前看一眼。",
+      "en": "In the fixed edition, this was chosen because these four words weigh nothing the day you marry, only ten years later. This seal, on the innermost wall of the master bedroom. One look before bed."
+    }
+  },
+  {
+    "code": "FR07",
+    "chinese": "同心同德",
+    "english": "One Heart, One Virtue",
+    "category": "love",
+    "edition": "fixed",
+    "colorFamily": "red",
+    "story": {
+      "zh": "固定版里选了同心同德，是因为\"德\"字是道义。两口子不只是同心，还得同德——同一种判断。这一张印在你们每年元旦写新年愿望的那张纸下面。",
+      "en": "In the fixed edition, this was chosen because de (virtue) is principle. A couple is not just one heart, but one virtue — one judgment. This seal, under the paper where you write New Year wishes each year."
+    }
+  },
+  {
+    "code": "FR08",
+    "chinese": "长乐未央",
+    "english": "Boundless Eternal Joy",
+    "category": "life",
+    "edition": "fixed",
+    "colorFamily": "red",
+    "story": {
+      "zh": "固定版里选了长乐未央，是因为\"未央\"两字最妙——还没有完。你家里有孩子、有老人、有那种笑还没笑完的瞬间。这一张印在客厅那个小桌上，全家都看得见。",
+      "en": "In the fixed edition, this was chosen because wei yang (not yet ended) is the most wonderful. At home, child, elder, that moment of laughter not yet finished. This seal, on the small table in the living room. The whole family sees."
+    }
+  },
+  {
+    "code": "FR09",
+    "chinese": "喜气盈庭",
+    "english": "Joy Fills the Courtyard",
+    "category": "life",
+    "edition": "fixed",
+    "colorFamily": "red",
+    "story": {
+      "zh": "固定版里选了喜气盈庭，是因为\"喜\"字是贴出来的。中国人过年贴喜字，是把喜气从屋外请进屋。这一张印在门内侧，开门的人先看见。",
+      "en": "In the fixed edition, this was chosen because the character 喜 is pasted. Chinese paste 喜 for New Year, to invite joy from outside in. This seal, inside the door. The one who opens sees it first."
+    }
+  },
+  {
+    "code": "FR10",
+    "chinese": "团圆美满",
+    "english": "Reunion in Perfect Harmony",
+    "category": "love",
+    "edition": "fixed",
+    "colorFamily": "red",
+    "story": {
+      "zh": "固定版里选了团圆美满，是因为中国人最重的就是这一张饭桌。一年到头就为了那顿饭。这一张印在饭桌正中间，全家围着吃饭时正对着。",
+      "en": "In the fixed edition, this was chosen because this dining table is the heaviest for Chinese. The whole year, for that one meal. This seal, in the center of the dining table. The whole family faces it when they eat."
+    }
+  },
+  {
+    "code": "FR11",
+    "chinese": "恩爱不移",
+    "english": "Love Unchanging",
+    "category": "love",
+    "edition": "fixed",
+    "colorFamily": "red",
+    "story": {
+      "zh": "固定版里选了恩爱不移，是因为\"不移\"两字是要熬的。这一张印在你们第一张合照的相框背面。相框朝外，背面朝墙——但你知道它在那里。",
+      "en": "In the fixed edition, this was chosen because bu yi (unchanging) takes enduring. This seal, on the back of your first photo frame. The frame faces out, the back faces the wall — but you know it is there."
+    }
+  },
+  {
+    "code": "FR12",
+    "chinese": "幸福永驻",
+    "english": "Happiness Forever Dwells",
+    "category": "love",
+    "edition": "fixed",
+    "colorFamily": "red",
+    "story": {
+      "zh": "固定版里选了幸福永驻，是因为\"永驻\"两字要靠你每天做点什么。这一张印在厨房墙上——做饭的人最知道什么是永驻。",
+      "en": "In the fixed edition, this was chosen because yong zhu (forever dwells) takes a little doing every day. This seal, on the kitchen wall — the one who cooks knows best what forever dwells means."
+    }
+  },
+  {
+    "code": "FY01",
+    "chinese": "招财进宝",
+    "english": "Summon Wealth and Treasure",
+    "category": "wealth",
+    "edition": "fixed",
+    "colorFamily": "yellow",
+    "story": {
+      "zh": "固定版里选了招财进宝，是因为你周一早上一上班就要面对数字。这一张印在你电脑屏幕左下角那一小片位置。",
+      "en": "In the fixed edition, this was chosen because Monday morning, you face the numbers. This seal, at the bottom-left of your computer screen."
+    }
+  },
+  {
+    "code": "FY02",
+    "chinese": "堆金积玉",
+    "english": "Piling Gold, Accumulating Jade",
+    "category": "wealth",
+    "edition": "fixed",
+    "colorFamily": "yellow",
+    "story": {
+      "zh": "固定版里选了堆金积玉，是因为存钱这件事要每天做。这一张印在你的存钱罐或记账本第一页。",
+      "en": "In the fixed edition, this was chosen because saving is daily. This seal, on your piggy bank or the first page of your ledger."
+    }
+  },
+  {
+    "code": "FY03",
+    "chinese": "金玉满堂",
+    "english": "Gold and Jade Fill the Hall",
+    "category": "wealth",
+    "edition": "fixed",
+    "colorFamily": "yellow",
+    "story": {
+      "zh": "固定版里选了金玉满堂，是因为满堂不是塞满，是井井有条。这一张印在你的书桌或工作台最干净那一角。",
+      "en": "In the fixed edition, this was chosen because full hall is not crammed, it is in order. This seal, on the cleanest corner of your desk."
+    }
+  },
+  {
+    "code": "FY04",
+    "chinese": "大吉大利",
+    "english": "Great Fortune and Prosperity",
+    "category": "life",
+    "edition": "fixed",
+    "colorFamily": "yellow",
+    "story": {
+      "zh": "固定版里选了大吉大利，是因为每天出门前那一秒最有用。这一张印在玄关那面小镜子的右下角。",
+      "en": "In the fixed edition, this was chosen because the second before leaving home is most useful. This seal, at the bottom-right of the small entry mirror."
+    }
+  },
+  {
+    "code": "FY05",
+    "chinese": "万事亨通",
+    "english": "All Things Go Smoothly",
+    "category": "life",
+    "edition": "fixed",
+    "colorFamily": "yellow",
+    "story": {
+      "zh": "固定版里选了万事亨通，是因为你不缺目标，缺的是不卡。这一张印在你每天第一张便签纸的左上角。",
+      "en": "In the fixed edition, this was chosen because you do not lack goals, you lack not getting stuck. This seal, at the top-left of your first sticky note each day."
+    }
+  },
+  {
+    "code": "FY06",
+    "chinese": "财运亨通",
+    "english": "Wealth and Fortune Flow Freely",
+    "category": "wealth",
+    "edition": "fixed",
+    "colorFamily": "yellow",
+    "story": {
+      "zh": "固定版里选了财运亨通，是因为人脉也是财。这一张印在你的电话本或微信通讯录第一页上方。",
+      "en": "In the fixed edition, this was chosen because connections are also fortune. This seal, above the first page of your phone book or WeChat contacts."
+    }
+  },
+  {
+    "code": "FY07",
+    "chinese": "鸿运当头",
+    "english": "Great Fortune Is Upon You",
+    "category": "wealth",
+    "edition": "fixed",
+    "colorFamily": "yellow",
+    "story": {
+      "zh": "固定版里选了鸿运当头，是因为运气不是等来的，是穿出来的。这一张印在你衣柜门内侧。",
+      "en": "In the fixed edition, this was chosen because luck is not waited for, it is worn. This seal, inside your wardrobe door."
+    }
+  },
+  {
+    "code": "FY08",
+    "chinese": "日进斗金",
+    "english": "Gold Pours In Daily",
+    "category": "wealth",
+    "edition": "fixed",
+    "colorFamily": "yellow",
+    "story": {
+      "zh": "固定版里选了日进斗金，是因为每天学 15 分钟比周末突击 10 小时有用。这一张印在你书桌台灯底座。",
+      "en": "In the fixed edition, this was chosen because 15 minutes daily beats 10 hours on weekends. This seal, on your desk lamp base."
+    }
+  },
+  {
+    "code": "FY09",
+    "chinese": "兴旺发达",
+    "english": "Prosperous and Flourishing",
+    "category": "career",
+    "edition": "fixed",
+    "colorFamily": "yellow",
+    "story": {
+      "zh": "固定版里选了兴旺发达，是因为工作环境清不清爽影响运气。这一张印在你的文件架最上层。",
+      "en": "In the fixed edition, this was chosen because the cleanness of the work space affects luck. This seal, on the top layer of your file rack."
+    }
+  },
+  {
+    "code": "FY10",
+    "chinese": "蒸蒸日上",
+    "english": "Rising Steadily Day by Day",
+    "category": "career",
+    "edition": "fixed",
+    "colorFamily": "yellow",
+    "story": {
+      "zh": "固定版里选了蒸蒸日上，是因为每天一小步比一年一大步稳。这一张印在你日历的最后一页。",
+      "en": "In the fixed edition, this was chosen because one small step daily beats one big step yearly. This seal, on the last page of your calendar."
+    }
+  },
+  {
+    "code": "FY11",
+    "chinese": "步步高升",
+    "english": "Rising Step by Step",
+    "category": "career",
+    "edition": "fixed",
+    "colorFamily": "yellow",
+    "story": {
+      "zh": "固定版里选了步步高升，是因为升不是爬楼梯，是换跑道。这一张印在你换工作前会打开的那个文件夹上。",
+      "en": "In the fixed edition, this was chosen because rising is not climbing stairs, it is switching lanes. This seal, on the folder you open before switching jobs."
+    }
+  },
+  {
+    "code": "FY12",
+    "chinese": "心想事成",
+    "english": "All That You Wish Comes True",
+    "category": "life",
+    "edition": "fixed",
+    "colorFamily": "yellow",
+    "story": {
+      "zh": "固定版里选了心想事成，是因为你得先把心想清楚。这一张印在你的新年愿望清单的封面上。",
+      "en": "In the fixed edition, this was chosen because you have to first think clearly. This seal, on the cover of your New Year wish list."
+    }
+  }
+]
